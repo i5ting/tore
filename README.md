@@ -10,9 +10,13 @@ $ npm i -g tore
 
 ## Usages
 
+in terminal
+
 ```
 $ tore
 ```
+
+if current path is not a git repo, fail with error
 
 ## Contributing
 
